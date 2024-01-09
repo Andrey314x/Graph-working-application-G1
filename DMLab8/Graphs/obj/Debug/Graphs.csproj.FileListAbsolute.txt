@@ -1,0 +1,68 @@
+H:\Programig\Projects C#\DMLab8\Graphs\bin\Debug\Graphs.exe.config
+H:\Programig\Projects C#\DMLab8\Graphs\bin\Debug\Graphs.exe
+H:\Programig\Projects C#\DMLab8\Graphs\bin\Debug\Graphs.pdb
+H:\Programig\Projects C#\DMLab8\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+H:\Programig\Projects C#\DMLab8\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+H:\Programig\Projects C#\DMLab8\Graphs\obj\Debug\Graphs.Form1.resources
+H:\Programig\Projects C#\DMLab8\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+H:\Programig\Projects C#\DMLab8\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+H:\Programig\Projects C#\DMLab8\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+H:\Programig\Projects C#\DMLab8\Graphs\obj\Debug\Graphs.exe
+H:\Programig\Projects C#\DMLab8\Graphs\obj\Debug\Graphs.pdb
+D:\Дискретная математика\DMLab8\Graphs\bin\Debug\Graphs.exe.config
+D:\Дискретная математика\DMLab8\Graphs\bin\Debug\Graphs.exe
+D:\Дискретная математика\DMLab8\Graphs\bin\Debug\Graphs.pdb
+D:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+D:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+D:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.Form1.resources
+D:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+D:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+D:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+D:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.exe
+D:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.pdb
+E:\Дискретная математика\DMLab8\Graphs\bin\Debug\Graphs.exe.config
+E:\Дискретная математика\DMLab8\Graphs\bin\Debug\Graphs.exe
+E:\Дискретная математика\DMLab8\Graphs\bin\Debug\Graphs.pdb
+E:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+E:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+E:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.Form1.resources
+E:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+E:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+E:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+E:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.exe
+E:\Дискретная математика\DMLab8\Graphs\obj\Debug\Graphs.pdb
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.exe.config
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.exe
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.pdb
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.Form1.resources
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.exe
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.pdb
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.exe.config
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.exe
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.pdb
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.Form1.resources
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.exe
+D:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.pdb
+E:\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.Form2.resources
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.exe
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\bin\Debug\Graphs.pdb
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.Form1.resources
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.Form2.resources
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.exe
+C:\Users\User-1\OneDrive\FlashBackup\Дискретная математика\Лаб 8 BFS\DMLab8\Graphs\obj\Debug\Graphs.pdb
